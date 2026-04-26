@@ -2,10 +2,9 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://lakrafli.io)
 
 <h1 align="center">Hi 👋, I'm Lakrafli ismail</h1>
-Étudiante en Master Conception de systèmes et cybersécurité à l'université
-Paris Est Créteil - 
-📍 Île-de-France | 21 ans
-📆 En recherche d’alternance dès septembre 2025 
+Étudiant en Master Informatique BioMédicale | Développement logiciel • Data Science • Santé numérique . à l'université sorbonne  
+📍 Île-de-France | 22 ans
+📆 En recherche d’alternance dès septembre 2026 
 <h3 align="center">A passionate frontend developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
